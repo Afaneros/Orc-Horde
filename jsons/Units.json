@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Orc Grunt",
+    "unitType": "Melee",
+    "cost": 25,
+    "movement": 2,
+    "strength": 10,
+    "replaces": "Warrior",
+    "uniqueTo": "Orcs",
+    "upgradesTo": "Orc Berserker"
+  },
+  {
+    "name": "Orc Skullbow",
+    "unitType": "Ranged",
+    "cost": 45,
+    "movement": 2,
+    "strength": 8,
+    "rangedStrength": 16,
+    "range": 2,
+    "requiredTech": "Archery",
+    "replaces": "Archer",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Orc Berserker",
+    "unitType": "Melee",
+    "cost": 55,
+    "movement": 2,
+    "strength": 20,
+    "requiredTech": "Iron Working",
+    "requiredResource": "Iron",
+    "replaces": "Swordsman",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Warg Rider",
+    "unitType": "Mounted",
+    "cost": 50,
+    "movement": 4,
+    "strength": 18,
+    "requiredTech": "Horseback Riding",
+    "replaces": "Horseman",
+    "uniqueTo": "Orcs"
+  }
+]
