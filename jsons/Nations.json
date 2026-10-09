@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Orcs",
+    "leaderName": "Gorrash Skullsplitter",
+    "startBias": ["Hill"],
+    "preferredVictoryType": "Domination",
+    "startIntroPart1": "Gorrash Skullsplitter, Warchief of the Orcish Horde! Our clans have been driven from the ash wastes, and now the green lands lie before us.",
+    "startIntroPart2": "Raise your palisades, sharpen your axes and let the weak learn to fear the sound of our war drums.",
+    "declaringWar": "Your lands will burn and your bones will decorate our halls!",
+    "attacked": "You dare strike the Horde? Then you have chosen to die!",
+    "defeated": "The Horde falls... but the drums will never be silent.",
+    "denounced": "Our axes are thirsty, and you have just given them a reason.",
+    "introduction": "I am Gorrash. Be brief, or be eaten.",
+    "neutralHello": "Speak. The Horde is listening.",
+    "hateHello": "Why does your kind still breathe?",
+    "tradeRequest": "The Horde offers a deal. Refuse it, and we will simply take what we want.",
+    "outerColor": [22, 24, 20],
+    "innerColor": [168, 46, 32],
+    "uniqueName": "Blood and Iron",
+    "uniques": [
+      "Starts with [Archery]",
+      "[+15]% Strength",
+      "[+30]% Strength for cities",
+      "[+50]% City Strength from defensive buildings",
+      "New [Melee] units start with [15] XP [in all cities]",
+      "[+25]% Production when constructing [Military] units [in all cities]",
+      "Heals [10] damage if it kills a unit"
+    ],
+    "cities": [
+      "Durgash", "Skarvak", "Bonegate", "Ironmaw", "Grakkar", "Thrushak",
+      "Ashfang", "Krulmar", "Bloodmarch", "Zogdur", "Ragefort", "Vorgrim",
+      "Hargok", "Skullreach", "Dreadhollow", "Gorethorn", "Blightmaw",
+      "Kharzug", "Scorchpit", "Warcamp of Urzog"
+    ]
+  }
+]
