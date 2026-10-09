@@ -59,24 +59,108 @@ UnitIcons/Warg Rider
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Orc Grunt
+TileSets/AbsoluteUnits/Units/Orc Berserker
   rotate: false
   xy: 308, 104
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Orc Grunt-1
+TileSets/AbsoluteUnits/Units/Orc Berserker-1
   rotate: false
   xy: 405, 104
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Orc Grunt-2
+TileSets/AbsoluteUnits/Units/Orc Berserker-2
   rotate: false
   xy: 2, 206
   size: 95, 81
   orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Orc Grunt
+  rotate: false
+  xy: 99, 206
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Orc Grunt-1
+  rotate: false
+  xy: 196, 206
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Orc Grunt-2
+  rotate: false
+  xy: 293, 206
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Orc Skullbow
+  rotate: false
+  xy: 390, 206
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Orc Skullbow-1
+  rotate: false
+  xy: 2, 289
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Orc Skullbow-2
+  rotate: false
+  xy: 99, 289
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Worker-Orcs-Ancient era
+  rotate: false
+  xy: 196, 289
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Worker-Orcs-Ancient era-1
+  rotate: false
+  xy: 293, 289
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Worker-Orcs-Ancient era-2
+  rotate: false
+  xy: 390, 289
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Warg Rider
+  rotate: false
+  xy: 2, 372
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Warg Rider-1
+  rotate: false
+  xy: 81, 372
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Warg Rider-2
+  rotate: false
+  xy: 160, 372
+  size: 77, 70
+  orig: 77, 70
   offset: 0, 0
   index: -1
