@@ -2,7 +2,9 @@
   {
     "name": "Orcs",
     "leaderName": "Gorrash Skullsplitter",
-    "startBias": ["Hill"],
+    "startBias": [
+      "Hill"
+    ],
     "preferredVictoryType": "Domination",
     "startIntroPart1": "Gorrash Skullsplitter, Warchief of the Orcish Horde! Our clans have been driven from the ash wastes, and now the green lands lie before us.",
     "startIntroPart2": "Raise your palisades, sharpen your axes and let the weak learn to fear the sound of our war drums.",
@@ -14,23 +16,46 @@
     "neutralHello": "Speak. The Horde is listening.",
     "hateHello": "Why does your kind still breathe?",
     "tradeRequest": "The Horde offers a deal. Refuse it, and we will simply take what we want.",
-    "outerColor": [22, 24, 20],
-    "innerColor": [168, 46, 32],
+    "outerColor": [
+      22,
+      24,
+      20
+    ],
+    "innerColor": [
+      168,
+      46,
+      32
+    ],
     "uniqueName": "Blood and Iron",
     "uniques": [
-      "Starts with [Archery]",
-      "[+15]% Strength",
-      "[+30]% Strength for cities",
-      "[+50]% City Strength from defensive buildings",
-      "New [Melee] units start with [15] XP [in all cities]",
-      "[+25]% Production when constructing [Military] units [in all cities]",
-      "Heals [10] damage if it kills a unit"
+      "[+15]% Strength <when attacking>",
+      "[+15]% Strength for cities",
+      "[+15]% Production when constructing [Military] units [in all cities]",
+      "Heals [10] damage if it kills a unit",
+      "[-15]% [Science]",
+      "[-10]% [Culture]"
     ],
     "cities": [
-      "Durgash", "Skarvak", "Bonegate", "Ironmaw", "Grakkar", "Thrushak",
-      "Ashfang", "Krulmar", "Bloodmarch", "Zogdur", "Ragefort", "Vorgrim",
-      "Hargok", "Skullreach", "Dreadhollow", "Gorethorn", "Blightmaw",
-      "Kharzug", "Scorchpit", "Warcamp of Urzog"
+      "Durgash",
+      "Skarvak",
+      "Bonegate",
+      "Ironmaw",
+      "Grakkar",
+      "Thrushak",
+      "Ashfang",
+      "Krulmar",
+      "Bloodmarch",
+      "Zogdur",
+      "Ragefort",
+      "Vorgrim",
+      "Hargok",
+      "Skullreach",
+      "Dreadhollow",
+      "Gorethorn",
+      "Blightmaw",
+      "Kharzug",
+      "Scorchpit",
+      "Warcamp of Urzog"
     ]
   }
 ]

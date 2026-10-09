@@ -3,22 +3,24 @@
     "name": "Bone Palisade",
     "replaces": "Walls",
     "uniqueTo": "Orcs",
-    "cost": 60,
-    "maintenance": 1,
     "requiredTech": "Masonry",
-    "cityStrength": 10,
-    "cityHealth": 30
+    "cityStrength": 7,
+    "cityHealth": 50,
+    "uniques": [
+      "Destroyed when the city is captured"
+    ]
   },
   {
     "name": "Black Fortress",
     "replaces": "Castle",
     "uniqueTo": "Orcs",
-    "cost": 100,
-    "maintenance": 2,
     "requiredTech": "Chivalry",
     "requiredBuilding": "Walls",
-    "cityStrength": 16,
-    "cityHealth": 40
+    "cityStrength": 9,
+    "cityHealth": 25,
+    "uniques": [
+      "Destroyed when the city is captured"
+    ]
   },
   {
     "name": "Skull Totem",
@@ -27,6 +29,9 @@
     "cost": 40,
     "maintenance": 1,
     "culture": 2,
-    "production": 1
+    "production": 1,
+    "uniques": [
+      "Destroyed when the city is captured"
+    ]
   }
 ]
