@@ -1,5 +1,5 @@
 game.png
-size: 512,512
+size: 2048,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -31,136 +31,1291 @@ NationIcons/Orcs
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Orc Berserker
+TileSets/AbsoluteUnits/Units/Great General-Orcs-Ancient era
   rotate: false
   xy: 410, 2
+  size: 77, 100
+  orig: 77, 100
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great General-Orcs-Ancient era-1
+  rotate: false
+  xy: 489, 2
+  size: 77, 100
+  orig: 77, 100
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great General-Orcs-Ancient era-2
+  rotate: false
+  xy: 568, 2
+  size: 77, 100
+  orig: 77, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Orc Berserker
+  rotate: false
+  xy: 647, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orc Grunt
   rotate: false
-  xy: 2, 104
+  xy: 749, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orc Skullbow
   rotate: false
-  xy: 104, 104
+  xy: 851, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Warg Rider
   rotate: false
-  xy: 206, 104
+  xy: 953, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Great Admiral-Orcs-Ancient era
+  rotate: false
+  xy: 1055, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Admiral-Orcs-Ancient era-1
+  rotate: false
+  xy: 1153, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Admiral-Orcs-Ancient era-2
+  rotate: false
+  xy: 1251, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Settler-Orcs-Ancient era
+  rotate: false
+  xy: 1349, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Settler-Orcs-Ancient era-1
+  rotate: false
+  xy: 1447, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Settler-Orcs-Ancient era-2
+  rotate: false
+  xy: 1545, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Longswordsman-Orcs-Ancient era
+  rotate: false
+  xy: 1643, 2
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Longswordsman-Orcs-Ancient era-1
+  rotate: false
+  xy: 1740, 2
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Longswordsman-Orcs-Ancient era-2
+  rotate: false
+  xy: 1837, 2
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Giant Death Robot-Orcs-Ancient era
+  rotate: false
+  xy: 1934, 2
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Giant Death Robot-Orcs-Ancient era-1
+  rotate: false
+  xy: 2, 104
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Giant Death Robot-Orcs-Ancient era-2
+  rotate: false
+  xy: 68, 104
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Composite Bowman-Orcs-Ancient era
+  rotate: false
+  xy: 134, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Composite Bowman-Orcs-Ancient era-1
+  rotate: false
+  xy: 231, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Composite Bowman-Orcs-Ancient era-2
+  rotate: false
+  xy: 328, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Crossbowman-Orcs-Ancient era
+  rotate: false
+  xy: 425, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Crossbowman-Orcs-Ancient era-1
+  rotate: false
+  xy: 522, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Crossbowman-Orcs-Ancient era-2
+  rotate: false
+  xy: 619, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Artist-Orcs-Ancient era
+  rotate: false
+  xy: 716, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Artist-Orcs-Ancient era-1
+  rotate: false
+  xy: 813, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Artist-Orcs-Ancient era-2
+  rotate: false
+  xy: 910, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Engineer-Orcs-Ancient era
+  rotate: false
+  xy: 1007, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Engineer-Orcs-Ancient era-1
+  rotate: false
+  xy: 1104, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Engineer-Orcs-Ancient era-2
+  rotate: false
+  xy: 1201, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Prophet-Orcs-Ancient era
+  rotate: false
+  xy: 1298, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Prophet-Orcs-Ancient era-1
+  rotate: false
+  xy: 1395, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Prophet-Orcs-Ancient era-2
+  rotate: false
+  xy: 1492, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Scientist-Orcs-Ancient era
+  rotate: false
+  xy: 1589, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Scientist-Orcs-Ancient era-1
+  rotate: false
+  xy: 1686, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Scientist-Orcs-Ancient era-2
+  rotate: false
+  xy: 1783, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great War Infantry-Orcs-Ancient era
+  rotate: false
+  xy: 1880, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great War Infantry-Orcs-Ancient era-1
+  rotate: false
+  xy: 2, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great War Infantry-Orcs-Ancient era-2
+  rotate: false
+  xy: 99, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Infantry-Orcs-Ancient era
+  rotate: false
+  xy: 196, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Infantry-Orcs-Ancient era-1
+  rotate: false
+  xy: 293, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Infantry-Orcs-Ancient era-2
+  rotate: false
+  xy: 390, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Inquisitor-Orcs-Ancient era
+  rotate: false
+  xy: 487, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Inquisitor-Orcs-Ancient era-1
+  rotate: false
+  xy: 584, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Inquisitor-Orcs-Ancient era-2
+  rotate: false
+  xy: 681, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Marine-Orcs-Ancient era
+  rotate: false
+  xy: 778, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Marine-Orcs-Ancient era-1
+  rotate: false
+  xy: 875, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Marine-Orcs-Ancient era-2
+  rotate: false
+  xy: 972, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missionary-Orcs-Ancient era
+  rotate: false
+  xy: 1069, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missionary-Orcs-Ancient era-1
+  rotate: false
+  xy: 1166, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missionary-Orcs-Ancient era-2
+  rotate: false
+  xy: 1263, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Musketman-Orcs-Ancient era
+  rotate: false
+  xy: 1360, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Musketman-Orcs-Ancient era-1
+  rotate: false
+  xy: 1457, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Musketman-Orcs-Ancient era-2
+  rotate: false
+  xy: 1554, 190
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Orc Berserker
   rotate: false
-  xy: 308, 104
+  xy: 1651, 190
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Berserker-1
   rotate: false
-  xy: 405, 104
+  xy: 1748, 190
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Berserker-2
   rotate: false
-  xy: 2, 206
+  xy: 1845, 190
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Grunt
   rotate: false
-  xy: 99, 206
+  xy: 1942, 190
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Grunt-1
   rotate: false
-  xy: 196, 206
+  xy: 2, 273
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Grunt-2
   rotate: false
-  xy: 293, 206
+  xy: 99, 273
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Skullbow
   rotate: false
-  xy: 390, 206
+  xy: 196, 273
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Skullbow-1
   rotate: false
-  xy: 2, 289
+  xy: 293, 273
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Skullbow-2
   rotate: false
-  xy: 99, 289
+  xy: 390, 273
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Paratrooper-Orcs-Ancient era
+  rotate: false
+  xy: 487, 273
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Paratrooper-Orcs-Ancient era-1
+  rotate: false
+  xy: 584, 273
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Paratrooper-Orcs-Ancient era-2
+  rotate: false
+  xy: 681, 273
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pikeman-Orcs-Ancient era
+  rotate: false
+  xy: 778, 273
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pikeman-Orcs-Ancient era-1
+  rotate: false
+  xy: 875, 273
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pikeman-Orcs-Ancient era-2
+  rotate: false
+  xy: 972, 273
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Rifleman-Orcs-Ancient era
+  rotate: false
+  xy: 1069, 273
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Rifleman-Orcs-Ancient era-1
+  rotate: false
+  xy: 1166, 273
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Rifleman-Orcs-Ancient era-2
+  rotate: false
+  xy: 1263, 273
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Scout-Orcs-Ancient era
+  rotate: false
+  xy: 1360, 273
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Scout-Orcs-Ancient era-1
+  rotate: false
+  xy: 1457, 273
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Scout-Orcs-Ancient era-2
+  rotate: false
+  xy: 1554, 273
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Spearman-Orcs-Ancient era
+  rotate: false
+  xy: 1651, 273
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Spearman-Orcs-Ancient era-1
+  rotate: false
+  xy: 1748, 273
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Spearman-Orcs-Ancient era-2
+  rotate: false
+  xy: 1845, 273
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Worker-Orcs-Ancient era
   rotate: false
-  xy: 196, 289
+  xy: 1942, 273
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Worker-Orcs-Ancient era-1
   rotate: false
-  xy: 293, 289
+  xy: 2, 356
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Worker-Orcs-Ancient era-2
   rotate: false
-  xy: 390, 289
+  xy: 99, 356
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Chariot Archer-Orcs-Ancient era
+  rotate: false
+  xy: 196, 356
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Chariot Archer-Orcs-Ancient era-1
+  rotate: false
+  xy: 275, 356
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Chariot Archer-Orcs-Ancient era-2
+  rotate: false
+  xy: 354, 356
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Merchant-Orcs-Ancient era
+  rotate: false
+  xy: 433, 356
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Merchant-Orcs-Ancient era-1
+  rotate: false
+  xy: 512, 356
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great Merchant-Orcs-Ancient era-2
+  rotate: false
+  xy: 591, 356
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Knight-Orcs-Ancient era
+  rotate: false
+  xy: 670, 356
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Knight-Orcs-Ancient era-1
+  rotate: false
+  xy: 749, 356
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Knight-Orcs-Ancient era-2
+  rotate: false
+  xy: 828, 356
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Warg Rider
   rotate: false
-  xy: 2, 372
+  xy: 907, 356
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Rider-1
   rotate: false
-  xy: 81, 372
+  xy: 986, 356
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Rider-2
   rotate: false
-  xy: 160, 372
+  xy: 1065, 356
   size: 77, 70
   orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cavalry-Orcs-Ancient era
+  rotate: false
+  xy: 1144, 356
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cavalry-Orcs-Ancient era-1
+  rotate: false
+  xy: 1223, 356
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cavalry-Orcs-Ancient era-2
+  rotate: false
+  xy: 1302, 356
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lancer-Orcs-Ancient era
+  rotate: false
+  xy: 1381, 356
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lancer-Orcs-Ancient era-1
+  rotate: false
+  xy: 1460, 356
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lancer-Orcs-Ancient era-2
+  rotate: false
+  xy: 1539, 356
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Landship-Orcs-Ancient era
+  rotate: false
+  xy: 1618, 356
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Landship-Orcs-Ancient era-1
+  rotate: false
+  xy: 1697, 356
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Landship-Orcs-Ancient era-2
+  rotate: false
+  xy: 1776, 356
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mechanized Infantry-Orcs-Ancient era
+  rotate: false
+  xy: 1855, 356
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mechanized Infantry-Orcs-Ancient era-1
+  rotate: false
+  xy: 1934, 356
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mechanized Infantry-Orcs-Ancient era-2
+  rotate: false
+  xy: 2, 439
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mobile SAM-Orcs-Ancient era
+  rotate: false
+  xy: 81, 439
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mobile SAM-Orcs-Ancient era-1
+  rotate: false
+  xy: 160, 439
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mobile SAM-Orcs-Ancient era-2
+  rotate: false
+  xy: 239, 439
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Modern Armor-Orcs-Ancient era
+  rotate: false
+  xy: 318, 439
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Modern Armor-Orcs-Ancient era-1
+  rotate: false
+  xy: 397, 439
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Modern Armor-Orcs-Ancient era-2
+  rotate: false
+  xy: 476, 439
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Rocket Artillery-Orcs-Ancient era
+  rotate: false
+  xy: 555, 439
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Rocket Artillery-Orcs-Ancient era-1
+  rotate: false
+  xy: 634, 439
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Rocket Artillery-Orcs-Ancient era-2
+  rotate: false
+  xy: 713, 439
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tank-Orcs-Ancient era
+  rotate: false
+  xy: 792, 439
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tank-Orcs-Ancient era-1
+  rotate: false
+  xy: 871, 439
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tank-Orcs-Ancient era-2
+  rotate: false
+  xy: 950, 439
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Anti-Aircraft Gun-Orcs-Ancient era
+  rotate: false
+  xy: 1029, 439
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Anti-Aircraft Gun-Orcs-Ancient era-1
+  rotate: false
+  xy: 1095, 439
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Anti-Aircraft Gun-Orcs-Ancient era-2
+  rotate: false
+  xy: 1161, 439
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Anti-Tank Gun-Orcs-Ancient era
+  rotate: false
+  xy: 1227, 439
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Anti-Tank Gun-Orcs-Ancient era-1
+  rotate: false
+  xy: 1293, 439
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Anti-Tank Gun-Orcs-Ancient era-2
+  rotate: false
+  xy: 1359, 439
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Artillery-Orcs-Ancient era
+  rotate: false
+  xy: 1425, 439
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Artillery-Orcs-Ancient era-1
+  rotate: false
+  xy: 1491, 439
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Artillery-Orcs-Ancient era-2
+  rotate: false
+  xy: 1557, 439
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Battleship-Orcs-Ancient era
+  rotate: false
+  xy: 1623, 439
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Battleship-Orcs-Ancient era-1
+  rotate: false
+  xy: 1689, 439
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Battleship-Orcs-Ancient era-2
+  rotate: false
+  xy: 1755, 439
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cannon-Orcs-Ancient era
+  rotate: false
+  xy: 1821, 439
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cannon-Orcs-Ancient era-1
+  rotate: false
+  xy: 1887, 439
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cannon-Orcs-Ancient era-2
+  rotate: false
+  xy: 1953, 439
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Caravel-Orcs-Ancient era
+  rotate: false
+  xy: 2, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Caravel-Orcs-Ancient era-1
+  rotate: false
+  xy: 68, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Caravel-Orcs-Ancient era-2
+  rotate: false
+  xy: 134, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Carrier-Orcs-Ancient era
+  rotate: false
+  xy: 200, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Carrier-Orcs-Ancient era-1
+  rotate: false
+  xy: 266, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Carrier-Orcs-Ancient era-2
+  rotate: false
+  xy: 332, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Catapult-Orcs-Ancient era
+  rotate: false
+  xy: 398, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Catapult-Orcs-Ancient era-1
+  rotate: false
+  xy: 464, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Catapult-Orcs-Ancient era-2
+  rotate: false
+  xy: 530, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Destroyer-Orcs-Ancient era
+  rotate: false
+  xy: 596, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Destroyer-Orcs-Ancient era-1
+  rotate: false
+  xy: 662, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Destroyer-Orcs-Ancient era-2
+  rotate: false
+  xy: 728, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Frigate-Orcs-Ancient era
+  rotate: false
+  xy: 794, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Frigate-Orcs-Ancient era-1
+  rotate: false
+  xy: 860, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Frigate-Orcs-Ancient era-2
+  rotate: false
+  xy: 926, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Galleass-Orcs-Ancient era
+  rotate: false
+  xy: 992, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Galleass-Orcs-Ancient era-1
+  rotate: false
+  xy: 1058, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Galleass-Orcs-Ancient era-2
+  rotate: false
+  xy: 1124, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Gatling Gun-Orcs-Ancient era
+  rotate: false
+  xy: 1190, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Gatling Gun-Orcs-Ancient era-1
+  rotate: false
+  xy: 1256, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Gatling Gun-Orcs-Ancient era-2
+  rotate: false
+  xy: 1322, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Helicopter Gunship-Orcs-Ancient era
+  rotate: false
+  xy: 1388, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Helicopter Gunship-Orcs-Ancient era-1
+  rotate: false
+  xy: 1454, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Helicopter Gunship-Orcs-Ancient era-2
+  rotate: false
+  xy: 1520, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Ironclad-Orcs-Ancient era
+  rotate: false
+  xy: 1586, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Ironclad-Orcs-Ancient era-1
+  rotate: false
+  xy: 1652, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Ironclad-Orcs-Ancient era-2
+  rotate: false
+  xy: 1718, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Machine Gun-Orcs-Ancient era
+  rotate: false
+  xy: 1784, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Machine Gun-Orcs-Ancient era-1
+  rotate: false
+  xy: 1850, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Machine Gun-Orcs-Ancient era-2
+  rotate: false
+  xy: 1916, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missile Cruiser-Orcs-Ancient era
+  rotate: false
+  xy: 1982, 506
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missile Cruiser-Orcs-Ancient era-1
+  rotate: false
+  xy: 2, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missile Cruiser-Orcs-Ancient era-2
+  rotate: false
+  xy: 68, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Nuclear Submarine-Orcs-Ancient era
+  rotate: false
+  xy: 134, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Nuclear Submarine-Orcs-Ancient era-1
+  rotate: false
+  xy: 200, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Nuclear Submarine-Orcs-Ancient era-2
+  rotate: false
+  xy: 266, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Privateer-Orcs-Ancient era
+  rotate: false
+  xy: 332, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Privateer-Orcs-Ancient era-1
+  rotate: false
+  xy: 398, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Privateer-Orcs-Ancient era-2
+  rotate: false
+  xy: 464, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Submarine-Orcs-Ancient era
+  rotate: false
+  xy: 530, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Submarine-Orcs-Ancient era-1
+  rotate: false
+  xy: 596, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Submarine-Orcs-Ancient era-2
+  rotate: false
+  xy: 662, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Trebuchet-Orcs-Ancient era
+  rotate: false
+  xy: 728, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Trebuchet-Orcs-Ancient era-1
+  rotate: false
+  xy: 794, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Trebuchet-Orcs-Ancient era-2
+  rotate: false
+  xy: 860, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Trireme-Orcs-Ancient era
+  rotate: false
+  xy: 926, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Trireme-Orcs-Ancient era-1
+  rotate: false
+  xy: 992, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Trireme-Orcs-Ancient era-2
+  rotate: false
+  xy: 1058, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Work Boats-Orcs-Ancient era
+  rotate: false
+  xy: 1124, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Work Boats-Orcs-Ancient era-1
+  rotate: false
+  xy: 1190, 564
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Work Boats-Orcs-Ancient era-2
+  rotate: false
+  xy: 1256, 564
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
