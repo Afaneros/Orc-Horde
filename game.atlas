@@ -1,61 +1,82 @@
 game.png
-size: 512,256
+size: 512,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-NationIcons/Orcs
+BuildingIcons/Black Fortress
   rotate: false
   xy: 2, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Orc Grunt
+BuildingIcons/Bone Palisade
   rotate: false
   xy: 104, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Orc Berserker
+BuildingIcons/Skull Totem
   rotate: false
   xy: 206, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Orc Skullbow
+NationIcons/Orcs
   rotate: false
   xy: 308, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Warg Rider
+UnitIcons/Orc Berserker
+  rotate: false
+  xy: 410, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Orc Grunt
   rotate: false
   xy: 2, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Bone Palisade
+UnitIcons/Orc Skullbow
   rotate: false
   xy: 104, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Black Fortress
+UnitIcons/Warg Rider
   rotate: false
   xy: 206, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Skull Totem
+TileSets/AbsoluteUnits/Units/Orc Grunt
   rotate: false
   xy: 308, 104
-  size: 100, 100
-  orig: 100, 100
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Orc Grunt-1
+  rotate: false
+  xy: 405, 104
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Orc Grunt-2
+  rotate: false
+  xy: 2, 206
+  size: 95, 81
+  orig: 95, 81
   offset: 0, 0
   index: -1
