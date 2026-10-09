@@ -44,5 +44,365 @@
     "replaces": "Horseman",
     "uniqueTo": "Orcs",
     "upgradesTo": "Knight"
+  },
+  {
+    "name": "Orc Clanfolk",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 106,
+    "requiredTech": "Agriculture",
+    "uniques": [
+      "Founds a new city <by consuming this unit>",
+      "Excess Food converted to Production when under construction",
+      "Requires at least [2] population"
+    ],
+    "hurryCostModifier": 20,
+    "replaces": "Settler",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Orc Drudge",
+    "unitType": "Civilian",
+    "movement": 2,
+    "requiredTech": "Agriculture",
+    "uniques": [
+      "Can build [Land] improvements on tiles",
+      "Automation is a primary action"
+    ],
+    "cost": 70,
+    "replaces": "Worker",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Warg Tracker",
+    "unitType": "Scout",
+    "movement": 2,
+    "strength": 5,
+    "cost": 25,
+    "requiredTech": "Agriculture",
+    "obsoleteTech": "Scientific Theory",
+    "uniques": [
+      "May upgrade to [Archer] through ruins-like effects",
+      "Never appears as a Barbarian unit"
+    ],
+    "promotions": [
+      "Ignore terrain cost"
+    ],
+    "attackSound": "nonmetalhit",
+    "replaces": "Scout",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Orc Impaler",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 11,
+    "cost": 56,
+    "requiredTech": "Bronze Working",
+    "obsoleteTech": "Civil Service",
+    "upgradesTo": "Pikeman",
+    "uniques": [
+      "[+50]% Strength <vs [Mounted] units>"
+    ],
+    "attackSound": "metalhit",
+    "replaces": "Spearman",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Orc Pikebrute",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 16,
+    "cost": 90,
+    "requiredTech": "Civil Service",
+    "uniques": [
+      "[+50]% Strength <vs [Mounted] units>"
+    ],
+    "upgradesTo": "Lancer",
+    "obsoleteTech": "Metallurgy",
+    "attackSound": "metalhit",
+    "replaces": "Pikeman",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Orc Bonebow",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 7,
+    "rangedStrength": 11,
+    "cost": 75,
+    "requiredTech": "Construction",
+    "obsoleteTech": "Machinery",
+    "upgradesTo": "Crossbowman",
+    "attackSound": "arrow",
+    "replaces": "Composite Bowman",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Orc Boltthrower",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 13,
+    "rangedStrength": 18,
+    "cost": 120,
+    "requiredTech": "Machinery",
+    "upgradesTo": "Gatling Gun",
+    "obsoleteTech": "Industrialization",
+    "attackSound": "crossbow",
+    "replaces": "Crossbowman",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Black Blade",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 21,
+    "cost": 120,
+    "requiredTech": "Steel",
+    "upgradesTo": "Musketman",
+    "obsoleteTech": "Gunpowder",
+    "requiredResource": "Iron",
+    "attackSound": "metalhit",
+    "replaces": "Longswordsman",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Orc Blastgunner",
+    "unitType": "Gunpowder",
+    "movement": 2,
+    "strength": 24,
+    "cost": 150,
+    "requiredTech": "Gunpowder",
+    "upgradesTo": "Rifleman",
+    "obsoleteTech": "Rifling",
+    "attackSound": "shot",
+    "replaces": "Musketman",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Warg Knight",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 20,
+    "cost": 120,
+    "requiredTech": "Chivalry",
+    "obsoleteTech": "Military Science",
+    "upgradesTo": "Cavalry",
+    "requiredResource": "Horses",
+    "uniques": [
+      "Can move after attacking",
+      "No defensive terrain bonus",
+      "[-33]% Strength <vs cities> <when attacking>",
+      "Never appears as a Barbarian unit"
+    ],
+    "attackSound": "horse",
+    "replaces": "Knight",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Warg Lancer",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 25,
+    "cost": 185,
+    "requiredTech": "Metallurgy",
+    "requiredResource": "Horses",
+    "uniques": [
+      "Can move after attacking",
+      "No defensive terrain bonus",
+      "[-33]% Strength <vs cities> <when attacking>",
+      "Never appears as a Barbarian unit"
+    ],
+    "promotions": [
+      "Formation I"
+    ],
+    "upgradesTo": "Anti-Tank Gun",
+    "obsoleteTech": "Combined Arms",
+    "attackSound": "horse",
+    "replaces": "Lancer",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Warg Chariot",
+    "unitType": "Archery",
+    "movement": 4,
+    "strength": 6,
+    "rangedStrength": 10,
+    "cost": 56,
+    "requiredTech": "The Wheel",
+    "requiredResource": "Horses",
+    "upgradesTo": "Knight",
+    "obsoleteTech": "Chivalry",
+    "uniques": [
+      "No defensive terrain bonus",
+      "Rough terrain penalty",
+      "Never appears as a Barbarian unit"
+    ],
+    "attackSound": "arrow",
+    "replaces": "Chariot Archer",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Skull Hurler",
+    "unitType": "Siege",
+    "movement": 2,
+    "strength": 7,
+    "rangedStrength": 8,
+    "cost": 75,
+    "requiredTech": "Mathematics",
+    "obsoleteTech": "Physics",
+    "upgradesTo": "Trebuchet",
+    "uniques": [
+      "[+200]% Strength <vs cities> <when attacking>",
+      "No defensive terrain bonus",
+      "Must set up to ranged attack",
+      "[-1] Sight",
+      "Never appears as a Barbarian unit"
+    ],
+    "hurryCostModifier": 20,
+    "attackSound": "throw",
+    "replaces": "Catapult",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Doom Trebuchet",
+    "unitType": "Siege",
+    "movement": 2,
+    "strength": 12,
+    "rangedStrength": 14,
+    "cost": 120,
+    "requiredTech": "Physics",
+    "obsoleteTech": "Chemistry",
+    "upgradesTo": "Cannon",
+    "uniques": [
+      "[+200]% Strength <vs cities> <when attacking>",
+      "No defensive terrain bonus",
+      "Must set up to ranged attack",
+      "[-1] Sight",
+      "Never appears as a Barbarian unit"
+    ],
+    "attackSound": "throw",
+    "replaces": "Trebuchet",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Bone Cannon",
+    "unitType": "Siege",
+    "movement": 2,
+    "strength": 14,
+    "rangedStrength": 20,
+    "cost": 185,
+    "requiredTech": "Chemistry",
+    "upgradesTo": "Artillery",
+    "obsoleteTech": "Dynamite",
+    "uniques": [
+      "[+200]% Strength <vs cities> <when attacking>",
+      "No defensive terrain bonus",
+      "Must set up to ranged attack",
+      "[-1] Sight",
+      "Never appears as a Barbarian unit"
+    ],
+    "attackSound": "cannon",
+    "replaces": "Cannon",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Bone Raft",
+    "unitType": "Civilian Water",
+    "movement": 4,
+    "cost": 30,
+    "requiredTech": "Sailing",
+    "uniques": [
+      "Cannot enter ocean tiles <before discovering [Astronomy]>",
+      "May create improvements on water resources",
+      "Uncapturable",
+      "Automation is a primary action"
+    ],
+    "replaces": "Work Boats",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Blood Galley",
+    "unitType": "Melee Water",
+    "movement": 4,
+    "strength": 10,
+    "cost": 45,
+    "requiredTech": "Sailing",
+    "uniques": [
+      "Cannot enter ocean tiles",
+      "Never appears as a Barbarian unit"
+    ],
+    "upgradesTo": "Caravel",
+    "obsoleteTech": "Astronomy",
+    "attackSound": "nonmetalhit",
+    "replaces": "Trireme",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Raider Galley",
+    "unitType": "Ranged Water",
+    "movement": 3,
+    "strength": 16,
+    "rangedStrength": 17,
+    "cost": 100,
+    "requiredTech": "Compass",
+    "obsoleteTech": "Navigation",
+    "upgradesTo": "Frigate",
+    "uniques": [
+      "Cannot enter ocean tiles"
+    ],
+    "attackSound": "arrow",
+    "replaces": "Galleass",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Corsair Sloop",
+    "unitType": "Melee Water",
+    "movement": 4,
+    "strength": 20,
+    "cost": 120,
+    "requiredTech": "Astronomy",
+    "upgradesTo": "Ironclad",
+    "obsoleteTech": "Combustion",
+    "uniques": [
+      "[+1] Sight",
+      "Withdraws before melee combat <with [80]% chance>"
+    ],
+    "hurryCostModifier": 30,
+    "attackSound": "cannon",
+    "replaces": "Caravel",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Black Sail Raider",
+    "unitType": "Melee Water",
+    "movement": 5,
+    "strength": 25,
+    "cost": 150,
+    "requiredTech": "Navigation",
+    "upgradesTo": "Destroyer",
+    "promotions": [
+      "Coastal Raider I",
+      "[Privateer] ability"
+    ],
+    "attackSound": "cannon",
+    "replaces": "Privateer",
+    "uniqueTo": "Orcs"
+  },
+  {
+    "name": "Dread Frigate",
+    "unitType": "Ranged Water",
+    "movement": 5,
+    "strength": 25,
+    "rangedStrength": 28,
+    "cost": 185,
+    "requiredResource": "Iron",
+    "requiredTech": "Navigation",
+    "obsoleteTech": "Electronics",
+    "upgradesTo": "Battleship",
+    "hurryCostModifier": 20,
+    "attackSound": "shipCannonVolley",
+    "replaces": "Frigate",
+    "uniqueTo": "Orcs"
   }
 ]
