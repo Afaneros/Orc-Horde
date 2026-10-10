@@ -31,2151 +31,2158 @@ NationIcons/Orcs
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Great General-Orcs-Ancient era
+ReligionIcons/Blood Moon
   rotate: false
   xy: 410, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Great General-Orcs-Ancient era
+  rotate: false
+  xy: 512, 2
   size: 77, 100
   orig: 77, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great General-Orcs-Ancient era-1
   rotate: false
-  xy: 489, 2
+  xy: 591, 2
   size: 77, 100
   orig: 77, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great General-Orcs-Ancient era-2
   rotate: false
-  xy: 568, 2
+  xy: 670, 2
   size: 77, 100
   orig: 77, 100
   offset: 0, 0
   index: -1
 UnitIcons/Black Blade
   rotate: false
-  xy: 647, 2
+  xy: 749, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Black Sail Raider
   rotate: false
-  xy: 749, 2
+  xy: 851, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Blood Galley
   rotate: false
-  xy: 851, 2
+  xy: 953, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Bone Cannon
   rotate: false
-  xy: 953, 2
+  xy: 1055, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Bone Raft
   rotate: false
-  xy: 1055, 2
+  xy: 1157, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Corsair Sloop
   rotate: false
-  xy: 1157, 2
+  xy: 1259, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Doom Trebuchet
   rotate: false
-  xy: 1259, 2
+  xy: 1361, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Dread Frigate
   rotate: false
-  xy: 1361, 2
+  xy: 1463, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orc Berserker
   rotate: false
-  xy: 1463, 2
+  xy: 1565, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orc Blastgunner
   rotate: false
-  xy: 1565, 2
+  xy: 1667, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orc Boltthrower
   rotate: false
-  xy: 1667, 2
+  xy: 1769, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orc Bonebow
   rotate: false
-  xy: 1769, 2
+  xy: 1871, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orc Clanfolk
   rotate: false
-  xy: 1871, 2
+  xy: 2, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orc Drudge
   rotate: false
-  xy: 2, 104
+  xy: 104, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orc Grunt
   rotate: false
-  xy: 104, 104
+  xy: 206, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orc Impaler
   rotate: false
-  xy: 206, 104
+  xy: 308, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orc Pikebrute
   rotate: false
-  xy: 308, 104
+  xy: 410, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Orc Skullbow
   rotate: false
-  xy: 410, 104
+  xy: 512, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Raider Galley
   rotate: false
-  xy: 512, 104
+  xy: 614, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Skull Hurler
   rotate: false
-  xy: 614, 104
+  xy: 716, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Warg Chariot
   rotate: false
-  xy: 716, 104
+  xy: 818, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Warg Knight
   rotate: false
-  xy: 818, 104
+  xy: 920, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Warg Lancer
   rotate: false
-  xy: 920, 104
+  xy: 1022, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Warg Rider
   rotate: false
-  xy: 1022, 104
+  xy: 1124, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Warg Tracker
   rotate: false
-  xy: 1124, 104
+  xy: 1226, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Black Blade
   rotate: false
-  xy: 1226, 104
+  xy: 1328, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Black Sail Raider
   rotate: false
-  xy: 1328, 104
+  xy: 1430, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Blood Galley
   rotate: false
-  xy: 1430, 104
+  xy: 1532, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Bone Cannon
   rotate: false
-  xy: 1532, 104
+  xy: 1634, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Bone Raft
   rotate: false
-  xy: 1634, 104
+  xy: 1736, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Corsair Sloop
   rotate: false
-  xy: 1736, 104
+  xy: 1838, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Doom Trebuchet
   rotate: false
-  xy: 1838, 104
+  xy: 1940, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Dread Frigate
   rotate: false
-  xy: 1940, 104
+  xy: 2, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Orc Blastgunner
   rotate: false
-  xy: 2, 206
+  xy: 104, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Orc Boltthrower
   rotate: false
-  xy: 104, 206
+  xy: 206, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Orc Bonebow
   rotate: false
-  xy: 206, 206
+  xy: 308, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Orc Clanfolk
   rotate: false
-  xy: 308, 206
+  xy: 410, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Orc Drudge
   rotate: false
-  xy: 410, 206
+  xy: 512, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Orc Impaler
   rotate: false
-  xy: 512, 206
+  xy: 614, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Orc Pikebrute
   rotate: false
-  xy: 614, 206
+  xy: 716, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Raider Galley
   rotate: false
-  xy: 716, 206
+  xy: 818, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Skull Hurler
   rotate: false
-  xy: 818, 206
+  xy: 920, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Warg Chariot
   rotate: false
-  xy: 920, 206
+  xy: 1022, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Warg Knight
   rotate: false
-  xy: 1022, 206
+  xy: 1124, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Warg Lancer
   rotate: false
-  xy: 1124, 206
+  xy: 1226, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPortraits/Warg Tracker
   rotate: false
-  xy: 1226, 206
+  xy: 1328, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Admiral-Orcs-Ancient era
   rotate: false
-  xy: 1328, 206
+  xy: 1430, 206
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Admiral-Orcs-Ancient era-1
   rotate: false
-  xy: 1426, 206
+  xy: 1528, 206
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Admiral-Orcs-Ancient era-2
   rotate: false
-  xy: 1524, 206
+  xy: 1626, 206
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Clanfolk
   rotate: false
-  xy: 1622, 206
+  xy: 1724, 206
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Clanfolk-1
   rotate: false
-  xy: 1720, 206
+  xy: 1822, 206
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Clanfolk-2
   rotate: false
-  xy: 1818, 206
+  xy: 1920, 206
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Black Blade
   rotate: false
-  xy: 1916, 206
+  xy: 2, 308
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Black Blade-1
   rotate: false
-  xy: 2, 308
+  xy: 99, 308
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Black Blade-2
   rotate: false
-  xy: 99, 308
+  xy: 196, 308
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Orcs-Future era
   rotate: false
-  xy: 196, 308
+  xy: 293, 308
   size: 64, 88
   orig: 64, 88
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Orcs-Industrial era
   rotate: false
-  xy: 262, 308
+  xy: 359, 308
   size: 64, 88
   orig: 64, 88
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Orcs-Information era
   rotate: false
-  xy: 328, 308
+  xy: 425, 308
   size: 64, 87
   orig: 64, 87
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Giant Death Robot-Orcs-Ancient era
   rotate: false
-  xy: 394, 308
+  xy: 491, 308
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Giant Death Robot-Orcs-Ancient era-1
   rotate: false
-  xy: 460, 308
+  xy: 557, 308
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Giant Death Robot-Orcs-Ancient era-2
   rotate: false
-  xy: 526, 308
+  xy: 623, 308
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Orcs-Atomic era
   rotate: false
-  xy: 592, 308
+  xy: 689, 308
   size: 64, 84
   orig: 64, 84
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Artist-Orcs-Ancient era
   rotate: false
-  xy: 658, 308
+  xy: 755, 308
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Artist-Orcs-Ancient era-1
   rotate: false
-  xy: 755, 308
+  xy: 852, 308
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Artist-Orcs-Ancient era-2
   rotate: false
-  xy: 852, 308
+  xy: 949, 308
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Engineer-Orcs-Ancient era
   rotate: false
-  xy: 949, 308
+  xy: 1046, 308
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Engineer-Orcs-Ancient era-1
   rotate: false
-  xy: 1046, 308
+  xy: 1143, 308
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Engineer-Orcs-Ancient era-2
   rotate: false
-  xy: 1143, 308
+  xy: 1240, 308
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Prophet-Orcs-Ancient era
   rotate: false
-  xy: 1240, 308
+  xy: 1337, 308
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Prophet-Orcs-Ancient era-1
   rotate: false
-  xy: 1337, 308
+  xy: 1434, 308
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Prophet-Orcs-Ancient era-2
   rotate: false
-  xy: 1434, 308
+  xy: 1531, 308
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Scientist-Orcs-Ancient era
   rotate: false
-  xy: 1531, 308
+  xy: 1628, 308
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Scientist-Orcs-Ancient era-1
   rotate: false
-  xy: 1628, 308
+  xy: 1725, 308
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Scientist-Orcs-Ancient era-2
   rotate: false
-  xy: 1725, 308
+  xy: 1822, 308
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great War Infantry-Orcs-Ancient era
   rotate: false
-  xy: 1822, 308
+  xy: 1919, 308
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great War Infantry-Orcs-Ancient era-1
   rotate: false
-  xy: 1919, 308
+  xy: 2, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great War Infantry-Orcs-Ancient era-2
   rotate: false
-  xy: 2, 405
+  xy: 99, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Infantry-Orcs-Ancient era
   rotate: false
-  xy: 99, 405
+  xy: 196, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Infantry-Orcs-Ancient era-1
   rotate: false
-  xy: 196, 405
+  xy: 293, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Infantry-Orcs-Ancient era-2
   rotate: false
-  xy: 293, 405
+  xy: 390, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Inquisitor-Orcs-Ancient era
   rotate: false
-  xy: 390, 405
+  xy: 487, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Inquisitor-Orcs-Ancient era-1
   rotate: false
-  xy: 487, 405
+  xy: 584, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Inquisitor-Orcs-Ancient era-2
   rotate: false
-  xy: 584, 405
+  xy: 681, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Marine-Orcs-Ancient era
   rotate: false
-  xy: 681, 405
+  xy: 778, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Marine-Orcs-Ancient era-1
   rotate: false
-  xy: 778, 405
+  xy: 875, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Marine-Orcs-Ancient era-2
   rotate: false
-  xy: 875, 405
+  xy: 972, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missionary-Orcs-Ancient era
   rotate: false
-  xy: 972, 405
+  xy: 1069, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missionary-Orcs-Ancient era-1
   rotate: false
-  xy: 1069, 405
+  xy: 1166, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missionary-Orcs-Ancient era-2
   rotate: false
-  xy: 1166, 405
+  xy: 1263, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Berserker
   rotate: false
-  xy: 1263, 405
+  xy: 1360, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Berserker-1
   rotate: false
-  xy: 1360, 405
+  xy: 1457, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Berserker-2
   rotate: false
-  xy: 1457, 405
+  xy: 1554, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Blastgunner
   rotate: false
-  xy: 1554, 405
+  xy: 1651, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Blastgunner-1
   rotate: false
-  xy: 1651, 405
+  xy: 1748, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Blastgunner-2
   rotate: false
-  xy: 1748, 405
+  xy: 1845, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Boltthrower
   rotate: false
-  xy: 1845, 405
+  xy: 1942, 405
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Boltthrower-1
   rotate: false
-  xy: 1942, 405
+  xy: 2, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Boltthrower-2
   rotate: false
-  xy: 2, 488
+  xy: 99, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Bonebow
   rotate: false
-  xy: 99, 488
+  xy: 196, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Bonebow-1
   rotate: false
-  xy: 196, 488
+  xy: 293, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Bonebow-2
   rotate: false
-  xy: 293, 488
+  xy: 390, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Drudge
   rotate: false
-  xy: 390, 488
+  xy: 487, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Drudge-1
   rotate: false
-  xy: 487, 488
+  xy: 584, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Drudge-2
   rotate: false
-  xy: 584, 488
+  xy: 681, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Grunt
   rotate: false
-  xy: 681, 488
+  xy: 778, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Grunt-1
   rotate: false
-  xy: 778, 488
+  xy: 875, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Grunt-2
   rotate: false
-  xy: 875, 488
+  xy: 972, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Impaler
   rotate: false
-  xy: 972, 488
+  xy: 1069, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Impaler-1
   rotate: false
-  xy: 1069, 488
+  xy: 1166, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Impaler-2
   rotate: false
-  xy: 1166, 488
+  xy: 1263, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Pikebrute
   rotate: false
-  xy: 1263, 488
+  xy: 1360, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Pikebrute-1
   rotate: false
-  xy: 1360, 488
+  xy: 1457, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Pikebrute-2
   rotate: false
-  xy: 1457, 488
+  xy: 1554, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Skullbow
   rotate: false
-  xy: 1554, 488
+  xy: 1651, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Skullbow-1
   rotate: false
-  xy: 1651, 488
+  xy: 1748, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Orc Skullbow-2
   rotate: false
-  xy: 1748, 488
+  xy: 1845, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Paratrooper-Orcs-Ancient era
   rotate: false
-  xy: 1845, 488
+  xy: 1942, 488
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Paratrooper-Orcs-Ancient era-1
   rotate: false
-  xy: 1942, 488
+  xy: 2, 571
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Paratrooper-Orcs-Ancient era-2
   rotate: false
-  xy: 2, 571
+  xy: 99, 571
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rifleman-Orcs-Ancient era
   rotate: false
-  xy: 99, 571
+  xy: 196, 571
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rifleman-Orcs-Ancient era-1
   rotate: false
-  xy: 196, 571
+  xy: 293, 571
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rifleman-Orcs-Ancient era-2
   rotate: false
-  xy: 293, 571
+  xy: 390, 571
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Tracker
   rotate: false
-  xy: 390, 571
+  xy: 487, 571
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Tracker-1
   rotate: false
-  xy: 487, 571
+  xy: 584, 571
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Tracker-2
   rotate: false
-  xy: 584, 571
+  xy: 681, 571
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Orcs-Medieval era
   rotate: false
-  xy: 681, 571
+  xy: 778, 571
   size: 64, 80
   orig: 64, 80
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Orcs-Modern era
   rotate: false
-  xy: 747, 571
+  xy: 844, 571
   size: 64, 78
   orig: 64, 78
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Orcs-Renaissance era
   rotate: false
-  xy: 813, 571
+  xy: 910, 571
   size: 64, 76
   orig: 64, 76
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Merchant-Orcs-Ancient era
   rotate: false
-  xy: 879, 571
+  xy: 976, 571
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Merchant-Orcs-Ancient era-1
   rotate: false
-  xy: 958, 571
+  xy: 1055, 571
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Merchant-Orcs-Ancient era-2
   rotate: false
-  xy: 1037, 571
+  xy: 1134, 571
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Chariot
   rotate: false
-  xy: 1116, 571
+  xy: 1213, 571
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Chariot-1
   rotate: false
-  xy: 1195, 571
+  xy: 1292, 571
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Chariot-2
   rotate: false
-  xy: 1274, 571
+  xy: 1371, 571
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Knight
   rotate: false
-  xy: 1353, 571
+  xy: 1450, 571
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Knight-1
   rotate: false
-  xy: 1432, 571
+  xy: 1529, 571
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Knight-2
   rotate: false
-  xy: 1511, 571
+  xy: 1608, 571
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Rider
   rotate: false
-  xy: 1590, 571
+  xy: 1687, 571
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Rider-1
   rotate: false
-  xy: 1669, 571
+  xy: 1766, 571
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Rider-2
   rotate: false
-  xy: 1748, 571
+  xy: 1845, 571
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Cavalry-Orcs-Ancient era
   rotate: false
-  xy: 1827, 571
+  xy: 1924, 571
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Cavalry-Orcs-Ancient era-1
   rotate: false
-  xy: 1906, 571
+  xy: 2, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Cavalry-Orcs-Ancient era-2
   rotate: false
-  xy: 2, 654
+  xy: 81, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Landship-Orcs-Ancient era
   rotate: false
-  xy: 81, 654
+  xy: 160, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Landship-Orcs-Ancient era-1
   rotate: false
-  xy: 160, 654
+  xy: 239, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Landship-Orcs-Ancient era-2
   rotate: false
-  xy: 239, 654
+  xy: 318, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mechanized Infantry-Orcs-Ancient era
   rotate: false
-  xy: 318, 654
+  xy: 397, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mechanized Infantry-Orcs-Ancient era-1
   rotate: false
-  xy: 397, 654
+  xy: 476, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mechanized Infantry-Orcs-Ancient era-2
   rotate: false
-  xy: 476, 654
+  xy: 555, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mobile SAM-Orcs-Ancient era
   rotate: false
-  xy: 555, 654
+  xy: 634, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mobile SAM-Orcs-Ancient era-1
   rotate: false
-  xy: 634, 654
+  xy: 713, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mobile SAM-Orcs-Ancient era-2
   rotate: false
-  xy: 713, 654
+  xy: 792, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Modern Armor-Orcs-Ancient era
   rotate: false
-  xy: 792, 654
+  xy: 871, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Modern Armor-Orcs-Ancient era-1
   rotate: false
-  xy: 871, 654
+  xy: 950, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Modern Armor-Orcs-Ancient era-2
   rotate: false
-  xy: 950, 654
+  xy: 1029, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rocket Artillery-Orcs-Ancient era
   rotate: false
-  xy: 1029, 654
+  xy: 1108, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rocket Artillery-Orcs-Ancient era-1
   rotate: false
-  xy: 1108, 654
+  xy: 1187, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rocket Artillery-Orcs-Ancient era-2
   rotate: false
-  xy: 1187, 654
+  xy: 1266, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tank-Orcs-Ancient era
   rotate: false
-  xy: 1266, 654
+  xy: 1345, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tank-Orcs-Ancient era-1
   rotate: false
-  xy: 1345, 654
+  xy: 1424, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tank-Orcs-Ancient era-2
   rotate: false
-  xy: 1424, 654
+  xy: 1503, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Lancer
   rotate: false
-  xy: 1503, 654
+  xy: 1582, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Lancer-1
   rotate: false
-  xy: 1582, 654
+  xy: 1661, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warg Lancer-2
   rotate: false
-  xy: 1661, 654
+  xy: 1740, 654
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Academy-Orcs-Ancient era
   rotate: false
-  xy: 1740, 654
+  xy: 1819, 654
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/AcademyT-Orcs-Ancient era
   rotate: false
-  xy: 1806, 654
+  xy: 1885, 654
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Citadel-Orcs-Ancient era
   rotate: false
-  xy: 1872, 654
+  xy: 1951, 654
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/CitadelT-Orcs-Ancient era
   rotate: false
-  xy: 1938, 654
+  xy: 2, 721
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Orcs-Ancient era
   rotate: false
-  xy: 2, 721
+  xy: 68, 721
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Orcs-Classical era
   rotate: false
-  xy: 68, 721
+  xy: 134, 721
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Customs house-Orcs-Ancient era
   rotate: false
-  xy: 134, 721
+  xy: 200, 721
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Customs houseT-Orcs-Ancient era
   rotate: false
-  xy: 200, 721
+  xy: 266, 721
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Holy site-Orcs-Ancient era
   rotate: false
-  xy: 266, 721
+  xy: 332, 721
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Holy siteT-Orcs-Ancient era
   rotate: false
-  xy: 332, 721
+  xy: 398, 721
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Landmark-Orcs-Ancient era
   rotate: false
-  xy: 398, 721
+  xy: 464, 721
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/LandmarkT-Orcs-Ancient era
   rotate: false
-  xy: 464, 721
+  xy: 530, 721
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Manufactory-Orcs-Ancient era
   rotate: false
-  xy: 530, 721
+  xy: 596, 721
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/ManufactoryT-Orcs-Ancient era
   rotate: false
-  xy: 596, 721
+  xy: 662, 721
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Sugar+Plantation-Orcs-Ancient era
   rotate: false
-  xy: 662, 721
+  xy: 728, 721
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Oil well-Orcs-Ancient era
   rotate: false
-  xy: 728, 721
+  xy: 794, 721
   size: 64, 57
   orig: 64, 57
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Oil+Oil well-Orcs-Ancient era
   rotate: false
-  xy: 794, 721
+  xy: 860, 721
   size: 64, 57
   orig: 64, 57
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Anti-Aircraft Gun-Orcs-Ancient era
   rotate: false
-  xy: 860, 721
+  xy: 926, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Anti-Aircraft Gun-Orcs-Ancient era-1
   rotate: false
-  xy: 926, 721
+  xy: 992, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Anti-Aircraft Gun-Orcs-Ancient era-2
   rotate: false
-  xy: 992, 721
+  xy: 1058, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Anti-Tank Gun-Orcs-Ancient era
   rotate: false
-  xy: 1058, 721
+  xy: 1124, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Anti-Tank Gun-Orcs-Ancient era-1
   rotate: false
-  xy: 1124, 721
+  xy: 1190, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Anti-Tank Gun-Orcs-Ancient era-2
   rotate: false
-  xy: 1190, 721
+  xy: 1256, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Artillery-Orcs-Ancient era
   rotate: false
-  xy: 1256, 721
+  xy: 1322, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Artillery-Orcs-Ancient era-1
   rotate: false
-  xy: 1322, 721
+  xy: 1388, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Artillery-Orcs-Ancient era-2
   rotate: false
-  xy: 1388, 721
+  xy: 1454, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Battleship-Orcs-Ancient era
   rotate: false
-  xy: 1454, 721
+  xy: 1520, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Battleship-Orcs-Ancient era-1
   rotate: false
-  xy: 1520, 721
+  xy: 1586, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Battleship-Orcs-Ancient era-2
   rotate: false
-  xy: 1586, 721
+  xy: 1652, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Black Sail Raider
   rotate: false
-  xy: 1652, 721
+  xy: 1718, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Black Sail Raider-1
   rotate: false
-  xy: 1718, 721
+  xy: 1784, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Black Sail Raider-2
   rotate: false
-  xy: 1784, 721
+  xy: 1850, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Blood Galley
   rotate: false
-  xy: 1850, 721
+  xy: 1916, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Blood Galley-1
   rotate: false
-  xy: 1916, 721
+  xy: 1982, 721
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Blood Galley-2
   rotate: false
-  xy: 1982, 721
+  xy: 2, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bone Cannon
   rotate: false
-  xy: 2, 787
+  xy: 68, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bone Cannon-1
   rotate: false
-  xy: 68, 787
+  xy: 134, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bone Cannon-2
   rotate: false
-  xy: 134, 787
+  xy: 200, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bone Raft
   rotate: false
-  xy: 200, 787
+  xy: 266, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bone Raft-1
   rotate: false
-  xy: 266, 787
+  xy: 332, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bone Raft-2
   rotate: false
-  xy: 332, 787
+  xy: 398, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Carrier-Orcs-Ancient era
   rotate: false
-  xy: 398, 787
+  xy: 464, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Carrier-Orcs-Ancient era-1
   rotate: false
-  xy: 464, 787
+  xy: 530, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Carrier-Orcs-Ancient era-2
   rotate: false
-  xy: 530, 787
+  xy: 596, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Corsair Sloop
   rotate: false
-  xy: 596, 787
+  xy: 662, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Corsair Sloop-1
   rotate: false
-  xy: 662, 787
+  xy: 728, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Corsair Sloop-2
   rotate: false
-  xy: 728, 787
+  xy: 794, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Destroyer-Orcs-Ancient era
   rotate: false
-  xy: 794, 787
+  xy: 860, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Destroyer-Orcs-Ancient era-1
   rotate: false
-  xy: 860, 787
+  xy: 926, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Destroyer-Orcs-Ancient era-2
   rotate: false
-  xy: 926, 787
+  xy: 992, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Doom Trebuchet
   rotate: false
-  xy: 992, 787
+  xy: 1058, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Doom Trebuchet-1
   rotate: false
-  xy: 1058, 787
+  xy: 1124, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Doom Trebuchet-2
   rotate: false
-  xy: 1124, 787
+  xy: 1190, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Dread Frigate
   rotate: false
-  xy: 1190, 787
+  xy: 1256, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Dread Frigate-1
   rotate: false
-  xy: 1256, 787
+  xy: 1322, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Dread Frigate-2
   rotate: false
-  xy: 1322, 787
+  xy: 1388, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gatling Gun-Orcs-Ancient era
   rotate: false
-  xy: 1388, 787
+  xy: 1454, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gatling Gun-Orcs-Ancient era-1
   rotate: false
-  xy: 1454, 787
+  xy: 1520, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gatling Gun-Orcs-Ancient era-2
   rotate: false
-  xy: 1520, 787
+  xy: 1586, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Helicopter Gunship-Orcs-Ancient era
   rotate: false
-  xy: 1586, 787
+  xy: 1652, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Helicopter Gunship-Orcs-Ancient era-1
   rotate: false
-  xy: 1652, 787
+  xy: 1718, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Helicopter Gunship-Orcs-Ancient era-2
   rotate: false
-  xy: 1718, 787
+  xy: 1784, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ironclad-Orcs-Ancient era
   rotate: false
-  xy: 1784, 787
+  xy: 1850, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ironclad-Orcs-Ancient era-1
   rotate: false
-  xy: 1850, 787
+  xy: 1916, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ironclad-Orcs-Ancient era-2
   rotate: false
-  xy: 1916, 787
+  xy: 1982, 787
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Machine Gun-Orcs-Ancient era
   rotate: false
-  xy: 1982, 787
+  xy: 2, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Machine Gun-Orcs-Ancient era-1
   rotate: false
-  xy: 2, 845
+  xy: 68, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Machine Gun-Orcs-Ancient era-2
   rotate: false
-  xy: 68, 845
+  xy: 134, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Cruiser-Orcs-Ancient era
   rotate: false
-  xy: 134, 845
+  xy: 200, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Cruiser-Orcs-Ancient era-1
   rotate: false
-  xy: 200, 845
+  xy: 266, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Cruiser-Orcs-Ancient era-2
   rotate: false
-  xy: 266, 845
+  xy: 332, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nuclear Submarine-Orcs-Ancient era
   rotate: false
-  xy: 332, 845
+  xy: 398, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nuclear Submarine-Orcs-Ancient era-1
   rotate: false
-  xy: 398, 845
+  xy: 464, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nuclear Submarine-Orcs-Ancient era-2
   rotate: false
-  xy: 464, 845
+  xy: 530, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Raider Galley
   rotate: false
-  xy: 530, 845
+  xy: 596, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Raider Galley-1
   rotate: false
-  xy: 596, 845
+  xy: 662, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Raider Galley-2
   rotate: false
-  xy: 662, 845
+  xy: 728, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Skull Hurler
   rotate: false
-  xy: 728, 845
+  xy: 794, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Skull Hurler-1
   rotate: false
-  xy: 794, 845
+  xy: 860, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Skull Hurler-2
   rotate: false
-  xy: 860, 845
+  xy: 926, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Submarine-Orcs-Ancient era
   rotate: false
-  xy: 926, 845
+  xy: 992, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Submarine-Orcs-Ancient era-1
   rotate: false
-  xy: 992, 845
+  xy: 1058, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Submarine-Orcs-Ancient era-2
   rotate: false
-  xy: 1058, 845
+  xy: 1124, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Bananas+Plantation-Orcs-Ancient era
   rotate: false
-  xy: 1124, 845
+  xy: 1190, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Camp-Orcs-Ancient era
   rotate: false
-  xy: 1190, 845
+  xy: 1256, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Cattle+Pasture-Orcs-Ancient era
   rotate: false
-  xy: 1256, 845
+  xy: 1322, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Citrus+Plantation-Orcs-Ancient era
   rotate: false
-  xy: 1322, 845
+  xy: 1388, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Cotton+Plantation-Orcs-Ancient era
   rotate: false
-  xy: 1388, 845
+  xy: 1454, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Deer+Camp-Orcs-Ancient era
   rotate: false
-  xy: 1454, 845
+  xy: 1520, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Deer+CampT-Orcs-Ancient era
   rotate: false
-  xy: 1520, 845
+  xy: 1586, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Dyes+Plantation-Orcs-Ancient era
   rotate: false
-  xy: 1586, 845
+  xy: 1652, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Farm+Wheat-Orcs-Ancient era
   rotate: false
-  xy: 1652, 845
+  xy: 1718, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Farm-Orcs-Ancient era
   rotate: false
-  xy: 1718, 845
+  xy: 1784, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/FarmD-Orcs-Ancient era
   rotate: false
-  xy: 1784, 845
+  xy: 1850, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/FarmDH-Orcs-Ancient era
   rotate: false
-  xy: 1850, 845
+  xy: 1916, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/FarmG-Orcs-Ancient era
   rotate: false
-  xy: 1916, 845
+  xy: 1982, 845
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/FarmGH-Orcs-Ancient era
   rotate: false
-  xy: 1982, 845
+  xy: 2, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/FarmP-Orcs-Ancient era
   rotate: false
-  xy: 2, 903
+  xy: 68, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/FarmPH-Orcs-Ancient era
   rotate: false
-  xy: 68, 903
+  xy: 134, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/FarmS-Orcs-Ancient era
   rotate: false
-  xy: 134, 903
+  xy: 200, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/FarmSH-Orcs-Ancient era
   rotate: false
-  xy: 200, 903
+  xy: 266, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/FarmT-Orcs-Ancient era
   rotate: false
-  xy: 266, 903
+  xy: 332, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/FarmTH-Orcs-Ancient era
   rotate: false
-  xy: 332, 903
+  xy: 398, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Fishing Boats-Orcs-Ancient era
   rotate: false
-  xy: 398, 903
+  xy: 464, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Fort-Orcs-Ancient era
   rotate: false
-  xy: 464, 903
+  xy: 530, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/FortT-Orcs-Ancient era
   rotate: false
-  xy: 530, 903
+  xy: 596, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Furs+Camp-Orcs-Ancient era
   rotate: false
-  xy: 596, 903
+  xy: 662, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/FursT+Camp-Orcs-Ancient era
   rotate: false
-  xy: 662, 903
+  xy: 728, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Horses+Pasture-Orcs-Ancient era
   rotate: false
-  xy: 728, 903
+  xy: 794, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/HutFarm-Orcs-Ancient era
   rotate: false
-  xy: 794, 903
+  xy: 860, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/HutFarmT-Orcs-Ancient era
   rotate: false
-  xy: 860, 903
+  xy: 926, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Incense+Plantation-Orcs-Ancient era
   rotate: false
-  xy: 926, 903
+  xy: 992, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Ivory+Camp-Orcs-Ancient era
   rotate: false
-  xy: 992, 903
+  xy: 1058, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Lumber mill-Orcs-Ancient era
   rotate: false
-  xy: 1058, 903
+  xy: 1124, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Lumber millT-Orcs-Ancient era
   rotate: false
-  xy: 1124, 903
+  xy: 1190, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Marble+Quarry-Orcs-Ancient era
   rotate: false
-  xy: 1190, 903
+  xy: 1256, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Marble+QuarryT-Orcs-Ancient era
   rotate: false
-  xy: 1256, 903
+  xy: 1322, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mine-Orcs-Ancient era
   rotate: false
-  xy: 1322, 903
+  xy: 1388, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/MineT-Orcs-Ancient era
   rotate: false
-  xy: 1388, 903
+  xy: 1454, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Moai-Orcs-Ancient era
   rotate: false
-  xy: 1454, 903
+  xy: 1520, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Offshore Platform-Orcs-Ancient era
   rotate: false
-  xy: 1520, 903
+  xy: 1586, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Oil+Offshore Platform-Orcs-Ancient era
   rotate: false
-  xy: 1586, 903
+  xy: 1652, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Pasture-Orcs-Ancient era
   rotate: false
-  xy: 1652, 903
+  xy: 1718, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Plantation-Orcs-Ancient era
   rotate: false
-  xy: 1718, 903
+  xy: 1784, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Polder-Orcs-Ancient era
   rotate: false
-  xy: 1784, 903
+  xy: 1850, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Quarry-Orcs-Ancient era
   rotate: false
-  xy: 1850, 903
+  xy: 1916, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/QuarryT-Orcs-Ancient era
   rotate: false
-  xy: 1916, 903
+  xy: 1982, 903
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Sheep+Pasture-Orcs-Ancient era
   rotate: false
-  xy: 1982, 903
+  xy: 2, 961
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Silk+Plantation-Orcs-Ancient era
   rotate: false
-  xy: 2, 961
+  xy: 68, 961
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Spices+Plantation-Orcs-Ancient era
   rotate: false
-  xy: 68, 961
+  xy: 134, 961
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Stone+Quarry-Orcs-Ancient era
   rotate: false
-  xy: 134, 961
+  xy: 200, 961
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Stone+QuarryT-Orcs-Ancient era
   rotate: false
-  xy: 200, 961
+  xy: 266, 961
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/StoneD+Quarry-Orcs-Ancient era
   rotate: false
-  xy: 266, 961
+  xy: 332, 961
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Terrace farm-Orcs-Ancient era
   rotate: false
-  xy: 332, 961
+  xy: 398, 961
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Trading post-Orcs-Ancient era
   rotate: false
-  xy: 398, 961
+  xy: 464, 961
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Trading postT-Orcs-Ancient era
   rotate: false
-  xy: 464, 961
+  xy: 530, 961
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Truffles+Camp-Orcs-Ancient era
   rotate: false
-  xy: 530, 961
+  xy: 596, 961
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Truffles+CampT-Orcs-Ancient era
   rotate: false
-  xy: 596, 961
+  xy: 662, 961
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Whales+Fishing Boats-Orcs-Ancient era
   rotate: false
-  xy: 662, 961
+  xy: 728, 961
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Wine+Plantation-Orcs-Ancient era
   rotate: false
-  xy: 728, 961
+  xy: 794, 961
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
