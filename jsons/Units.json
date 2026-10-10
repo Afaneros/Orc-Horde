@@ -1,7 +1,7 @@
 [
   {
     "name": "Orc Grunt",
-    "unitType": "Melee",
+    "unitType": "Sword",
     "cost": 40,
     "movement": 2,
     "strength": 10,
@@ -11,7 +11,7 @@
   },
   {
     "name": "Orc Skullbow",
-    "unitType": "Ranged",
+    "unitType": "Archery",
     "cost": 40,
     "movement": 2,
     "strength": 6,
@@ -24,7 +24,7 @@
   },
   {
     "name": "Orc Berserker",
-    "unitType": "Melee",
+    "unitType": "Sword",
     "cost": 75,
     "movement": 2,
     "strength": 18,
