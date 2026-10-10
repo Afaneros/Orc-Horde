@@ -51,7 +51,7 @@
     "name": "Unending Horde",
     "type": "Enhancer",
     "uniques": [
-      "[+1]% [Production] from every follower, up to [+15]%",
+      "[+15]% Production when constructing [Military] units [in all cities]",
       "Only available <for [Orcs] Civilizations>"
     ]
   }
