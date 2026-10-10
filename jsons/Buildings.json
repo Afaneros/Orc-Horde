@@ -33,5 +33,19 @@
     "uniques": [
       "Destroyed when the city is captured"
     ]
+  },
+  {
+    "name": "Throne of Gorrash",
+    "isWonder": true,
+    "uniqueTo": "Orcs",
+    "requiredTech": "Bronze Working",
+    "culture": 2,
+    "faith": 2,
+    "uniques": [
+      "Free [Great General] appears",
+      "All newly-trained [relevant] units [in all cities] receive the [Shock I] promotion",
+      "All newly-trained [relevant] units [in all cities] receive the [Accuracy I] promotion"
+    ],
+    "quote": "'Bones for the throne, blood for the moon.' - Gorrash Skullsplitter"
   }
 ]
