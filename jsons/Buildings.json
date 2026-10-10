@@ -4,7 +4,7 @@
     "replaces": "Walls",
     "uniqueTo": "Orcs",
     "requiredTech": "Masonry",
-    "cityStrength": 7,
+    "cityStrength": 8,
     "cityHealth": 50,
     "uniques": [
       "Destroyed when the city is captured"
@@ -16,7 +16,7 @@
     "uniqueTo": "Orcs",
     "requiredTech": "Chivalry",
     "requiredBuilding": "Walls",
-    "cityStrength": 9,
+    "cityStrength": 10,
     "cityHealth": 25,
     "uniques": [
       "Destroyed when the city is captured"

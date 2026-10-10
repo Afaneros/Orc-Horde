@@ -28,12 +28,12 @@
     ],
     "uniqueName": "Blood and Iron",
     "uniques": [
-      "[+15]% Strength <when attacking>",
+      "[+20]% Strength <when attacking>",
       "[+15]% Strength for cities",
-      "[+15]% Production when constructing [Military] units [in all cities]",
+      "[+20]% Production when constructing [Military] units [in all cities]",
       "Heals [10] damage if it kills a unit",
-      "[-15]% [Science]",
-      "[-10]% [Culture]"
+      "[-10]% [Science]",
+      "[-5]% [Culture]"
     ],
     "cities": [
       "Durgash",
