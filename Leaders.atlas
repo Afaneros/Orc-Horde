@@ -1,12 +1,26 @@
 Leaders.png
-size: 256,256
+size: 1024,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-LeaderIcons/Gorrash Skullsplitter
+WonderImages/Throne of Gorrash
   rotate: false
   xy: 2, 2
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Gorrash Skullsplitter
+  rotate: false
+  xy: 516, 2
   size: 200, 200
   orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Throne of Gorrash
+  rotate: false
+  xy: 718, 2
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
